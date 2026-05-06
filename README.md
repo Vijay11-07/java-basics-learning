@@ -8,7 +8,7 @@ A clean implementation of React's fundamental building blocks: Props, State, and
 * **Side Effects**: Implementing the `useEffect` hook to interact with browser APIs (Document Title).
 
 ## 🎓 Academic Details
-* **Student Name**: Anshul Kashyap
+* **Student Name**: Vijay 
 * **Degree**: B.Tech CSE AIML (2nd Semester)
 * **University**: Geeta University
 
